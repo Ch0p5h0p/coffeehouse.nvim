@@ -19,8 +19,8 @@ return function(flavor)
             b = { fg = t.purple },
         },
         command = {
-            a = { bg = t.orange, fg = t.bg, gui = 'bold' },
-            b = { fg = t.orange },
+            a = { bg = t.dark_orange, fg = t.bg, gui = 'bold' },
+            b = { fg = t.dark_orange },
         },
         replace = {
             a = { bg = t.red, fg = t.bg, gui = 'bold' },
