@@ -12,12 +12,12 @@ local themes = {
 
         red = "#d3a0ae",
         orange = "#dfb783",
-        blue = "#a0bac4",
+        blue = "#91b5cc",
         green = "#b9bd98",
         purple = "#c5afd3",
         dark_orange = "#d9a995",
         yellow = "#d4c29f",
-        cyan = "#a1c2b6",
+        cyan = "#8dbead",
 
         cream = "#e8dccb",
         latte = "#b3a18f",
