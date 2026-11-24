@@ -45,7 +45,7 @@ return function(flavor)
             Folded { bg = t.bg_alt, fg = t.fg_muted },
             FoldColumn { fg = t.fg_subtle },
 
-            NonText { fg = t.bg_surface },
+            NonText { fg = t.ash },
             SpecialKey { fg = t.fg_muted },
             Whitespace { fg = t.bg_surface },
             EndOfBuffer { fg = t.bg },
